@@ -1,0 +1,7 @@
+externalId: ep_icapi_datapoints
+name: Ice Cream API Datapoints
+dataSetExternalId: ds_icapi
+description: Tracks extraction runs for the Ice Cream Factory API datapoints extractor.
+rawTables: []
+source: Ice Cream Factory API
+documentation: https://docs.cdf-bootcamp.cogniteapp.com/content/data_integration/extraction_pipelines/
